@@ -46,3 +46,57 @@ Tem como objetivo exercitar os conhecimento adquiridos em HTML, CSS, Javascript 
 - Layout: projeto.png
 
 -------------
+
+## Revisão - Conteúdo
+### O que é DOM API?
+Métodos de seleção do DOM:
+- getElementById()
+- getElementsByClassName()
+- querySelector()
+- querySelectorAll()
+
+
+### Propriedade de objeto
+Todo objeto do DOM tem suas propriedades, por exemplo:
+- innerHTML;
+- value;
+- className;
+- classList;
+
+Como ver essas propriedades?
+
+### Métodos e propriedades de String
+- length
+- trim()
+- toString()
+
+### O que são eventos?
+Como adicionar um assistidor de evento a um elemento?
+
+Eventos:
+- click
+- submit
+- change
+
+### Instruções de lógica
+#### Condicional
+if () {} else {}
+
+#### Loop
+for
+while
+
+
+### Criando elementos no DOM
+- createElement()
+- appendChild()
+- parentNode
+
+### Array e manipulação de coleção
+Métodos de lista
+- map()
+- forEach()
+- filter()
+- sort()
+
+### this e target
