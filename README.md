@@ -25,6 +25,10 @@ Tem como objetivo exercitar os conhecimento adquiridos em HTML, CSS, Javascript 
     - Não permitir que um item seja adicionado se só tiver espaços e nenhum texto no input
 - **Fase 5**	
     - Permitir drag and drop pra reorganizar a lista
+- **Fase 6: BÔNUS**
+    - Editar tarefa
+    - Adicionar etiqueta à tarefa
+    - Botão "Remover Completos" (quando clicado, ele remove)
 
 --------------
 
