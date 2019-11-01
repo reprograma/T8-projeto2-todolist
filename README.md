@@ -26,7 +26,7 @@ Tem como objetivo exercitar os conhecimento adquiridos em HTML, CSS, Javascript 
 - **Fase 5: BÔNUS**
     - Editar tarefa
     - Adicionar etiqueta à tarefa
-    - Botão "Remover Completos" (quando clicado, ele remove)
+    - Botão "Remover Completos" (quando clicado, ele remove somente as tarefas com "check")
 
 --------------
 
